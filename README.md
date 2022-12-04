@@ -32,3 +32,15 @@ Caesar cipher, also known as shift cipher, is one of the simplest and most widel
 5. Print Out Encrypted Plain Text Message
 
 ![Image](Cipher4.png)
+
+6. Sample of encrypted plain text message
+
+    Plain text example: Nana is a Boy
+
+    Shift key used: 7
+
+    Encypted message: Uhuh pz h Ivf
+
+![Image](Cipher5.png)
+
+
