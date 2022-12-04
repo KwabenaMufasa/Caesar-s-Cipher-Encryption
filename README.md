@@ -20,3 +20,11 @@ Caesar cipher, also known as shift cipher, is one of the simplest and most widel
 ![Image](Cipher2.png)
 
 3. The translate() function will return a copy of the string which the characters will be mapped through the given translation table.
+
+4. Setting Inputs for Plain Text Message and Cipher/Shift value
+    
+    Set input for to initiate encryption. Then enter the plaintext message for to be encrypted. 
+
+    Select a shift key to set the encryption; and by this, it should be within the 26 characters of the alphabelts varaible provided, both uppercase and lowercase. 
+
+![Image](Cipher3.png)
