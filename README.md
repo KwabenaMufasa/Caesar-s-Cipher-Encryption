@@ -28,3 +28,7 @@ Caesar cipher, also known as shift cipher, is one of the simplest and most widel
     Select a shift key to set the encryption; and by this, it should be within the 26 characters of the alphabelts varaible provided, both uppercase and lowercase. 
 
 ![Image](Cipher3.png)
+
+5. Print Out Encrypted Plain Text Message
+
+![Image](Cipher4.png)
