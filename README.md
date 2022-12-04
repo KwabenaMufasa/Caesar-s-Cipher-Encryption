@@ -13,3 +13,10 @@ Caesar cipher, also known as shift cipher, is one of the simplest and most widel
 
 ![Image](Cipher1.png)
 
+2. Define Function for Plain Text and Cipher
+
+    This will be done using a mapping table with maketrans() and translate() functions.
+
+![Image](Cipher2.png)
+
+3. The translate() function will return a copy of the string which the characters will be mapped through the given translation table.
